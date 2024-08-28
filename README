@@ -2,11 +2,10 @@ Tugas Instalisasi Kali Linux
 Nama : Wahyu Pramana
 Nim : 09030582226003
 Kelas : TK5A
-
-1. Pertama Install terlebih dahulu file ISO kali linux (https://cdimage.kali.org/kali
+Pertama Install terlebih dahulu file ISO kali linux (https://cdimage.kali.org/kali
 2024.2/kali-linux-2024.2-installer-amd64.iso) 
-2. Lalu Buka Aplikasi Virtual Box di dekstop anda 
-3. Buatlah Virtual Machine Baru dan masukkan ISO image yang sudah di download tadi 
+ Lalu Buka Aplikasi Virtual Box di dekstop anda 
+ Buatlah Virtual Machine Baru dan masukkan ISO image yang sudah di download tadi 
 https://web.whatsapp.com/eca45099-4847-44b7-9062-9894731bf276
  Pilihlah Base Memmory dan Processor yang sudah disarankan/warna hijau 
 https://web.whatsapp.com/a61e0cde-e072-4d15-b5ec-9bfc610695ab
