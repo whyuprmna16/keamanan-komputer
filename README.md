@@ -1,0 +1,39 @@
+Tugas Instalisasi Kali Linux
+Nama : Wahyu Pramana
+Nim : 09030582226003
+Kelas : TK5A
+
+1. Pertama Install terlebih dahulu file ISO kali linux (https://cdimage.kali.org/kali
+2024.2/kali-linux-2024.2-installer-amd64.iso) 
+2. Lalu Buka Aplikasi Virtual Box di dekstop anda 
+3. Buatlah Virtual Machine Baru dan masukkan ISO image yang sudah di download tadi 
+https://web.whatsapp.com/eca45099-4847-44b7-9062-9894731bf276
+ Pilihlah Base Memmory dan Processor yang sudah disarankan/warna hijau 
+https://web.whatsapp.com/a61e0cde-e072-4d15-b5ec-9bfc610695ab
+ Buatlah  Virtual Hard disk Usahakan diatas 30GB 
+https://web.whatsapp.com/76401bef-380e-4e8a-862a-53966b9e39e8
+Sesuaikan dengan yang sudah dibuat tadi, jika sudah selesai klik finish 
+https://web.whatsapp.com/982c0917-2627-44d2-bf49-a107072f82fe
+ Lalu klik start virtual machinenya 
+https://web.whatsapp.com/027985e8-bbae-4776-8025-0a93f39a7478
+ Pilihlah Graphical Install 
+https://web.whatsapp.com/c4bb386b-4a46-4d51-b1bd-5f15c21c5f08
+Pilih & Isi Bahasa,Lokasi,Keyboard,Jaringan,Zona Waktu,Penyimpanan,data username & 
+password sesuai dengan gambar di bawah ini 
+https://web.whatsapp.com/b47e627f-88a9-411b-be5e-2a00d1d41597
+https://web.whatsapp.com/d82f68ca-4ad7-4d9d-a5e9-af68e617d92c
+https://web.whatsapp.com/066d368b-b638-4bdd-b774-5a1ac76c314f
+https://web.whatsapp.com/6f69b177-e304-43cc-bfc0-8a579e47d316
+https://web.whatsapp.com/9dfb2884-c43c-43f4-a111-056bbb65923e
+https://web.whatsapp.com/1ef85165-8b5a-41b5-8bfd-995b354842c6
+https://web.whatsapp.com/740a7a6b-8ed5-43f5-be37-ca5ba4562792
+https://web.whatsapp.com/ab08d809-59ec-4a7e-93c8-37a120d9d688
+https://web.whatsapp.com/a775e385-45ba-4fd1-86c1-78f00928ef6a
+https://web.whatsapp.com/765b1182-8041-44de-b8d5-fbe399b6fa7d
+https://web.whatsapp.com/3c887c96-f371-474c-8db8-98938e078c6b
+https://web.whatsapp.com/c0ec7911-883a-4cce-89b9-d872d958d0b2
+https://web.whatsapp.com/30b90bc4-a380-42e2-9b7d-c5e2660e169e
+ Masukkan Username dan Password yang sudah di isi tadi lalu klik login 
+https://web.whatsapp.com/95a795cf-8145-4f4f-9fc1-dffb3ca1d8ef
+. OS kali linux sudah terinstall dan siap digunakan 
+https://web.whatsapp.com/7450e78a-8f43-4364-b62f-cb299175124f
